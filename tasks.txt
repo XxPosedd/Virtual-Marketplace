@@ -1,0 +1,12 @@
+load bundles
+     maybe change cerr into throw exception
+save
+     bundles
+     discounts
+     logs
+main
+comments, comments, and more comments
+exceptions?
+     catch blocks?
+     missing in a few parts?
+demo execution of the code?
